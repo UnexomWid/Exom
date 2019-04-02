@@ -1,4 +1,4 @@
-![Exom](img/exom.png)
+<img align="center" src="img/exom.png" alt="Exom">
 
 # Exom
 
