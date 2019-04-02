@@ -1,4 +1,6 @@
-<img align="center" src="img/exom.png" alt="Exom">
+<p align="center">
+  <img src="img/exom.png" alt="Exom">
+</p>
 
 # Exom
 
