@@ -1,4 +1,4 @@
-![Logo](img/logo.png)
+![Exom](img/exom.png)
 
 # Exom
 
