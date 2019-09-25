@@ -6,7 +6,7 @@
 
 **Excedo Omni (_LEGACY_):** A collection of powerful utilities.
 
-# License <a href="https://github.com/UnexomWid/usb-duplicator/blob/master/LICENSE"><img align="right" src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3" /></a>
+# License <a href="https://github.com/UnexomWid/Exom-Legacy/blob/master/LICENSE"><img align="right" src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3" /></a>
 
 Exom is a project by [UnexomWid](http://unexomwid.github.io). It is licensed under the [General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
