@@ -10,7 +10,7 @@
 
 Exom is a project by [UnexomWid](http://unexomwid.github.io). It is licensed under the [General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
-# Status <a href="https://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html"><img align="right" src="https://img.shields.io/badge/Status-Legacy-orange.svg" alt="Legacy" /></a>
+# Status <img align="right" src="https://img.shields.io/badge/Status-Legacy-orange.svg" alt="Legacy" />
 
 This is a **LEGACY** project that is no longer maintained.
 
