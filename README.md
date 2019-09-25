@@ -4,7 +4,7 @@
 
 # About <a href="https://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html"><img align="right" src="https://img.shields.io/badge/Java-8-B07219?logo=java" alt="Java 8" /></a>
 
-**Excedo Omni (_LEGACY_):** A powerful collection of utilities.
+**Excedo Omni (_LEGACY_):** A collection of powerful utilities.
 
 # License <a href="https://github.com/UnexomWid/usb-duplicator/blob/master/LICENSE"><img align="right" src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3" /></a>
 
