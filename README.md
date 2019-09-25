@@ -14,4 +14,4 @@ Exom is a project by [UnexomWid](http://unexomwid.github.io). It is licensed und
 
 This is a **LEGACY** project that is no longer maintained.
 
-This implementation of Exom is incomplete, and now open-sourced. Its sole purpose is to serve as a model for the next generation of Exom.
+This implementation of Exom is incomplete, and now open-sourced. Most likely, it **will NOT compile.** Its sole purpose is to serve as a model for the next generation of Exom.
