@@ -6,9 +6,11 @@
 
 **Excedo Omni (_LEGACY_):** A collection of powerful utilities.
 
-# License <a href="https://github.com/UnexomWid/Exom-Legacy/blob/master/LICENSE"><img align="right" src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3" /></a>
+# License <a href="https://github.com/UnexomWid/Exom-Legacy/blob/master/LICENSE"><img align="right" src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
 
-Exom is a project by [UnexomWid](http://unexomwid.github.io). It is licensed under the [General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+Exom-Legacy was created by [UnexomWid](https://uw.exom.dev). It is licensed under the [MIT](https://github.com/UnexomWid/Exom-Legacy/blob/master/LICENSE) license.
+
+> Note: this license only applies to **Exom-Legacy**. It does not apply to **Exom**.
 
 # Status <img align="right" src="https://img.shields.io/badge/Status-Legacy-orange.svg" alt="Legacy" />
 
